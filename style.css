@@ -1,0 +1,40 @@
+body{
+	background-image: url(images/background.png);
+}
+.navbar{
+	font-family: 'Road Rage', cursive;
+	text-align:center;
+}
+
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+}
+
+.SideImage{
+	border: 2px solid black;
+	background-color: #CDCDCD;
+}
+
+.ImageTitle{
+	font-size:300%;
+}
+
+footer {
+  display: block;
+}
+
+.logo{
+
+}
+
+.ia{
+	Text-align:center;
+	background-color: lightblue;
+}
